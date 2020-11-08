@@ -1,0 +1,28 @@
+body {
+	display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+    
+}
+.form {
+      width: 300px;
+      padding: -50px;
+      
+     
+     
+      
+   }
+
+.form_button {
+   width:200px; 
+   height:30px;
+   border: none;
+   border-radius: 5px;
+   color: #fff;
+   background-color: #0071f0;
+   outline: none;
+   cursor: pointer;
+   transition: 0.3s;
+   margin-top: 50px;
+}
